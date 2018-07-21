@@ -7,7 +7,25 @@
 		<key>ARGameRX.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B9AF16B120FD369E009332F5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B9AF16C720FD36A0009332F5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B9AF16D220FD36A0009332F5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

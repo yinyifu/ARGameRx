@@ -1,0 +1,6 @@
+framework module Pods_ARGameRXUITests {
+  umbrella header "Pods-ARGameRXUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
